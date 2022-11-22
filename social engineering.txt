@@ -1,0 +1,24 @@
+ISP Employee: Hello, how may we help you? This is Sarah.
+You: Hey Sarah, this is Tom, I actually work for this ISP myself and I was
+wondering if you could look up a customer in one of our tools for me. My tool is
+being extremely buggy and my internet is down for some reason. I don’t need
+much, the customer contacted me via support chat and I need a number to call him
+back and a name. I can look up the rest in one of our tools.
+ISP Employee: Sorry to hear that. Here, let me just look up the IP in our master
+tool. One moment please.
+*Few moments later*
+Alright, here is the client’s phone number associated with the IP address and their
+full name. Is that all?
+You: Yes ma’am. Thanks Sarah. Have a great shift.
+That’s usually all it takes. ISP doxing can either be really simple like that (ISP
+doxed a Comcast IP a few weeks ago, got last four of SSN) or really complicated
+(failed at doxing a TWC ISP a few days ago, took like four tries). It’s best if you
+have a reasonable deep voice and sound believable (more eWhore coaching). All it
+takes it practice and the right knowledge of tools to SE some live support.
+Tip X3: If you fail on one person, don’t sweat it. Just wait a few minutes or hours
+and try with a different support member. Some ISPs are really hard to SE while
+some are insanely easy.
+Tip X4: Here are a list of ISP tools. Yes, these are tools that you may have access
+to because ISP doxing itself is generally public and I doubt that you haven’t heard
+of it. Either way, these are necessary tools and information for when you’re ISP
+doxing someone. They make ISP doxing a lot easier.
